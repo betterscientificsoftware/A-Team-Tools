@@ -1,5 +1,5 @@
 # A-Team-Tools
-_A collection of resources for lightweight, agile team management by Michael A. Heroux (@maherou)_
+_A collection of resources for lightweight, agile team management by [Michael A. Heroux](https://github.com/maherou)_
 
 This site focuses on simple, lightweight practices to help small software teams (especially research teams) introduce some structure and process to their efforts.  We emphasize a handful of practices we have found to be broadly useful.
 
