@@ -10,12 +10,12 @@ This site focuses on simple, lightweight practices to help small software teams 
 The practices we propose are especially suited to small teams that have both senior and junior members, where team members, especially junior members, may join and depart a team on a periodic basis.  A common example is a university research team with students, postdocs and long-term faculty. This diagram depicts the basic lifecycle.
 ![Team Member Lifecycle](https://betterscientificsoftware.github.io/A-Team-Tools/TeamMemberLifecycle.jpg)
 
-- Senior staff, faculty: 
+- **Senior staff, faculty:**
     - Stable presence, in charge of science questions, experiments.
     - Know the conceptual models well.
     - May spend less time writing code, fuzzy on details.
 
-- Junior staff, students:
+- **Junior staff, students:**
     - Transient, dual focus (science results, next position).
     - Staged experience: New, experienced, departing.
     - Learning conceptual models.
