@@ -1,4 +1,4 @@
-# Sample Transition Checklist - Potential Checklist Items
+## Sample Transition Checklist - Potential Checklist Items
 
 This checklist was created to help a student transition into a new project using the programming language Julia.  Simple checklists like this one can be used to capture important guidance and enable a tangible measure of progress toward a goal.
 
@@ -11,4 +11,4 @@ The text below can be copied and pasted into a new GitHub issue in your issues-o
 - [x] implement conjugate gradient in julia as practice
 - [x] learn inheritance and related
   - [x] build macros for simplifying inheritance
-  ```
+```

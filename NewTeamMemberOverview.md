@@ -1,6 +1,6 @@
-# Sample Team Welcome and Overview
+## Sample Team Welcome and Overview
 
-The text below can be copied and pasted into a new GitHub markdown page, to provide guidance to new team members (note that text is chopped at the right but will be copied).
+The text below can be copied and pasted into a new GitHub markdown page (e.g., WelcomeAndOverview.md), to provide guidance to new team members (note that text is chopped at the right but will be copied).
 
 ```
 ## New Team Member Sample Welcome

@@ -1,4 +1,4 @@
-# Research Student Exit - Potential Checklist Items
+## Research Student Exit - Potential Checklist Items
 
 The text below can be copied and pasted into a new GitHub issue called `Firstname Lastname Initiation Checklist` in your issues-only repository (note that text may be chopped at the right but will be copied).  The `- [ ]` notation will create a checklist item in the issue, which can be used to track progress.
 
