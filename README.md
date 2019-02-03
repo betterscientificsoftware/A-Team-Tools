@@ -11,12 +11,12 @@ The practices we propose are especially suited to small teams that have both sen
 ![Team Member Lifecycle](https://betterscientificsoftware.github.io/A-Team-Tools/TeamMemberLifecycle.jpg)
 
 - **Senior staff, faculty:**
-    - Stable presence, in charge of science questions, experiments.
+    - Stable presence, in charge of research questions, experiments.
     - Know the conceptual models well.
     - May spend less time writing code, fuzzy on details.
 
 - **Junior staff, students:**
-    - Transient, dual focus (science results, next position).
+    - Transient, dual focus (research results, next position).
     - Staged experience: New, experienced, departing.
     - Learning conceptual models.
     - Write most code, know details.

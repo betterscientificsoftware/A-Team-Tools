@@ -1,6 +1,6 @@
 ## New Team Member Checklist - Potential Checklist Items
 
-The text below can be copied and pasted into a new GitHub issue called `Firstname Lastname Initiation Checklist` in the [Labora](https://github.com/Collegeville/Labora) issues-only repository (note that text is chopped at the right but will be copied).  The `- [ ]` notation will create a checklist item in the issue, which can be used to track progress.
+The text below can be copied and pasted into a new GitHub issue called `Firstname Lastname Initiation Checklist` in your issues-only repository (note that text is chopped at the right but will be copied).  The `- [ ]` notation will create a checklist item in the issue, which can be used to track progress.
 
 ```
 - [ ] Create a GitHub account (if you don't have one) and ask Dr Heroux to add you to the Collegeville organization.
