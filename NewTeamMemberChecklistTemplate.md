@@ -1,6 +1,6 @@
 ## New Team Member Checklist - Potential Checklist Items
 
-This sample new team member checklist can be used as a starting point for your own list.  Keeping a master list as starting point for a particular new member's list enables a comprehensive and clear starting point for first steps.
+This sample new team member checklist can be used as a starting point for your own master list.
 
 - [ ] Create a GitHub account (if you don't have one) and ask Dr Heroux to add you to the Collegeville organization.
 - [ ] Become a member of all appropriate repositories in the Collegeville organization.
