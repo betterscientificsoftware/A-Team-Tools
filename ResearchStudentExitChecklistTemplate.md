@@ -1,6 +1,6 @@
 ## Research Student Exit - Potential Checklist Items
 
-This sample exit checklist for departing research students can be used as a starting point for your own list.
+This sample exit checklist for departing research students can be used as a starting point for your own master list.
 
 - [ ] Transfer all notes, bibliography, reference materials and related content to personal work repo.
 - [ ] Fix a date for thesis defense.
