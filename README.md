@@ -21,7 +21,19 @@ The practices we propose are especially suited to small teams that have both sen
     - Learning conceptual models.
     - Write most code, know details.
 
-## Key A-Team-Tools Elements
+## Team GitHub Organization
+
+An important component of the A-Team-Tools approach is a [GitHub organization](https://help.github.com/en/articles/about-organizations).  Establishing an organization enables coordination of shared repositories.  For educational projects, a GitHub organization can contain private repositories without paying the usual GitHub fee.  Private repositories are useful for managing team activities and keeping unpublished content internally.
+
+## Team Activity Management
+
+A simple issue tracking system such as GitHub issues provides teams with a transparent way to manage team work.  While any repository in your team's organization will typically have its own issue database, we also recommend having an *issues-only* repository.  This repository can be used for managing team member tasks that are not specific to a particular project.  This repository is also were checklists are managed (see below).
+
+A key dashboard for lightweight task management is a Kanban board.
+    - [Kanban board:](https://github.com/betterscientificsoftware/A-Team-Tools/projects/1) A Kanban board is used to manage tasks by placing them in columns indicating their status.  Of particular importance is the 'In Progress' column which lists the tasks presently being worked on.  The discipline of Kanban is that any person or team should have only so much work going on at once, in order to optimize progress and spur innovation.
+    - Regular meetings, updates: Team meetings and project status can be facilitated by regular use and updating of the team Kanban board.  Discussion starts with items in the 'In Progress' column, then the 'Ready' column if a slot opens in 'In Progress'.  Other columns should be scanned as well.  For projects that rely on external contributions, it can be useful to have a 'Blocked' column.  Tasks that were in progress but blocked by an external dependence can be moved to 'Blocked'.
+
+## Team Management Elements
 
 - **Checklists:** We find that checklists enable a uniform, repeatable, trackable and ever-improving system for key events in a team member's participation on a project. The following lists (with links to examples) are particularly useful:
     - [Initiation:](NewTeamMemberChecklistTemplate) Bringing on a new team member occurs often enough to keep a master checklist of potential activities.  From the master list, a custom list can be created as a GitHub issue and assigned to the new team member.
@@ -31,6 +43,3 @@ The practices we propose are especially suited to small teams that have both sen
 - **Policies:** The value of a team policy cannot be overstated.  The act of creating a policy is a team-building experience, prompting conversation about what team members value most in each other.  The policy establishes behavior expectations and better assures that the products being developed will be high quality and sustainable, reducing the cost of work and the loss of team members who depart.
     - This [sample policy](TeamPoliciesTemplate) illustrates one concrete example of how a team conducts its work.
 
-- **Issue tracking:** A simple issue tracking system such as GitHub issues provides teams with a transparent way to manage their work.  Of particular value as a lightweight task management system is a Kanban board.
-    - [Kanban board:](https://github.com/betterscientificsoftware/A-Team-Tools/projects/1) A Kanban board is used to manage tasks by placing them in columns indicating their status.  Of particular importance is the 'In Progress' column which lists the tasks presently being worked on.  The discipline of Kanban is that any person or team should have only so much work going on at once, in order to optimize progress and spur innovation.
-    - Regular meetings, updates: Team meetings and project status can be facilitated by regular use and updating of the team Kanban board.  Discussion starts with items in the 'In Progress' column, then the 'Ready' column if a slot opens in 'In Progress'.  Other columns should be scanned as well.  For projects that rely on external contributions, it can be useful to have a 'Blocked' column.  Tasks that were in progress but blocked by an external dependence can be moved to 'Blocked'.
