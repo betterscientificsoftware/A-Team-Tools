@@ -24,7 +24,7 @@ The following policies are meant to guide team members in their activities, esta
 1. Any concerns not addressed by team policies should be discussed with project leader.
 
 
-Copy and paste the template below as a starting point for defining your own team policies.
+**Copy and paste the template below as a starting point for defining your own team policies.**
 ```
 ## Project Team Policies
 
