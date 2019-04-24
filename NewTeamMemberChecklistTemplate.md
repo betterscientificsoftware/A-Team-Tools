@@ -2,8 +2,8 @@
 
 This sample new team member checklist can be used as a starting point for your own master list.
 
-- [ ] Create a GitHub account (if you don't have one) and ask Dr Heroux to add you to the Collegeville organization.
-- [ ] Become a member of all appropriate repositories in the Collegeville organization.
+- [ ] Create a GitHub account (if you don't have one) and ask team leader to add you to the team GitHub organization.
+- [ ] Become a member of all appropriate repositories in the team GitHub organization.
 - [ ] Identify any new repos that should be created, especially if your research topic is new.
 - [ ] Learn LaTeX using the https://github.com/Collegeville/Scribe repository.
 - [ ] At least one of your repos will be a LaTeX collection that will contain your annotated bibliography and the starting point for at least one technical report, which will be an ongoing record of your progress.
@@ -16,8 +16,8 @@ This sample new team member checklist can be used as a starting point for your o
 The text below can be copied and pasted into a new GitHub issue called `Firstname Lastname Initiation Checklist` in your issues-only repository (note that text is chopped at the right but will be copied).  The `- [ ]` notation will create a checklist item in the issue, which can be used to track progress.
 
 ```
-- [ ] Create a GitHub account (if you don't have one) and ask Dr Heroux to add you to the Collegeville organization.
-- [ ] Become a member of all appropriate repositories in the Collegeville organization.
+- [ ] Create a GitHub account (if you don't have one) and ask team leader to add you to the team GitHub organization.
+- [ ] Become a member of all appropriate repositories in the team GitHub organization.
 - [ ] Identify any new repos that should be created, especially if your research topic is new.
 - [ ] Learn LaTeX using the https://github.com/Collegeville/Scribe repository.
 - [ ] At least one of your repos will be a LaTeX collection that will contain your annotated bibliography and the starting point for at least one technical report, which will be an ongoing record of your progress.
