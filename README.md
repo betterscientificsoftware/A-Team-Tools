@@ -1,9 +1,9 @@
 # A-Team-Tools
 _A collection of resources for lightweight, agile team management by [Michael A. Heroux](https://github.com/maherou)_
 
-This site focuses on simple, lightweight practices to help small software teams (especially research teams) introduce some structure and process to their efforts.  We emphasize a handful of practices we have found to be broadly useful.
+This site focuses on simple, lightweight practices to help small software teams (especially research teams) introduce some structure and process to their team management efforts.  We emphasize a handful of practices we have found to be broadly useful.
 
-**Note:** These tools can be useful for large teams, too.  Often large teams are composed of small teams, so these practices can be appropriate at the small team level.  Furthermore, team policy becomes even more important on large teams, as do lightweight communication strategies such as project Kanban boards where the status of activities can be referenced via online tools.
+**Note:** These tools can be useful for large teams, too.  Often large teams are composed of small teams, so these practices can be applied at the small team level and applied similarly to team leadership as a group.  Furthermore, team policy becomes even more important on large teams, as do lightweight communication strategies such as project Kanban boards where the status of activities can be referenced via online tools.
 
 ## Team Composition
 
