@@ -37,7 +37,7 @@ A key dashboard for lightweight task management is a Kanban board.
 ## Team Management Elements
 
 - **Checklists:** We find that checklists enable a uniform, repeatable, trackable and ever-improving system for key events in a team member's participation on a project. The following lists (with links to examples) are particularly useful:
-    - [Initiation:](NewTeamMemberChecklistTemplate) Bringing on a new team member occurs often enough to keep a master checklist of potential activities.  From the master list, a custom list can be created as a GitHub issue and assigned to the new team member.
+    - [Initiation:](NewTeamMemberChecklistTemplate) Bringing on a new team member occurs often enough to keep a comprehensive reference checklist of potential activities.  From the reference list, a custom list can be created as a GitHub issue and assigned to the new team member.
     - [Transition:](LearnJuliaSampleTransitionChecklist) Often during a project a team member (in particular a junior member) will need to learn some new material in order to prepare for their next phase of work.  A transition checklist provides them with the needed concrete steps.  Progress on the checklist is marked by checking off each item as it is completed, showing progress status.
     - [General Exit](TeamMemberExitChecklistTemplate), [Research Student Exit:](ResearchStudentExitChecklistTemplate) A smooth departure of a team member requires planning and sustainability investment throughout project execution.  An exit checklist should be established as soon as possible.
 
