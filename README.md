@@ -34,7 +34,10 @@ A key dashboard for lightweight task management is a Kanban board.
 - [Kanban board:](https://github.com/betterscientificsoftware/A-Team-Tools/projects/1) A Kanban board is used to manage tasks by placing them in columns indicating their status.  Of particular importance is the 'In Progress' column which lists the tasks presently being worked on.  The discipline of Kanban is that any person or team should have only so much work going on at once, in order to optimize progress and spur innovation.
  - Regular meetings, updates: Team meetings and project status can be facilitated by regular use and updating of the team Kanban board.  Discussion starts with items in the 'In Progress' column, then the 'Ready' column if a slot opens in 'In Progress'.  Other columns should be scanned as well.  For projects that rely on external contributions, it can be useful to have a 'Blocked' column.  Tasks that were in progress but blocked by an external dependence can be moved to 'Blocked'.
 
-## Team Management Elements
+## Team Management Approaches
+
+![Team Management Approaches](https://betterscientificsoftware.github.io/A-Team-Tools/TeamMemberPhaseAndActivityManagementApproach.png)
+
 
 - **Checklists:** We find that checklists enable a uniform, repeatable, trackable and ever-improving system for key events in a team member's participation on a project. The following lists (with links to examples) are particularly useful:
     - [Initiation:](NewTeamMemberChecklistTemplate) Bringing on a new team member occurs often enough to keep a comprehensive reference checklist of potential activities.  From the reference list, a custom list can be created as a GitHub issue and assigned to the new team member.
