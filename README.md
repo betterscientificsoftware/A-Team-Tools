@@ -36,7 +36,7 @@ A key dashboard for lightweight task management is a Kanban board.
 
 ## Team Management Approaches
 
-![Team Management Approaches](https://betterscientificsoftware.github.io/A-Team-Tools/TeamMemberPhaseAndActivityManagementApproach.png)
+![Team Management Approaches](https://betterscientificsoftware.github.io/A-Team-Tools/TeamMemberPhaseAndActivityManagementApproach.png) 
 
 
 - **Checklists:** We find that checklists enable a uniform, repeatable, trackable and ever-improving system for key events in a team member's participation on a project. The following lists (with links to examples) are particularly useful:
