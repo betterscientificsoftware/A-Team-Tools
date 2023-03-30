@@ -8,7 +8,7 @@ This sample new team member checklist can be used as a starting point for your o
 - [ ] Learn LaTeX using the https://github.com/Collegeville/Scribe repository.
 - [ ] At least one of your repos will be a LaTeX collection that will contain your annotated bibliography and the starting point for at least one technical report, which will be an ongoing record of your progress.
 - [ ] Sign up for a Udacity online learning account at https://www.udacity.com, if you don't have one already.  You will use Udacity for some of your introductory training.
-- [ ] Take the Udacity course Software Development Proces at https://classroom.udacity.com/courses/ud805.
+- [ ] Take the Udacity course Software Development Process at https://classroom.udacity.com/courses/ud805.
 - [ ] Take the Udacity course How to Use Git and GitHub at https://classroom.udacity.com/courses/ud775.
 - [ ] Take the online courses in C++: http://www.cprogramming.com/tutorial/c++-tutorial.html and http://www.cplusplus.com/doc/tutorial
 - [ ] Redo CS200 labs in C++
@@ -22,7 +22,7 @@ The text below can be copied and pasted into a new GitHub issue called `Firstnam
 - [ ] Learn LaTeX using the https://github.com/Collegeville/Scribe repository.
 - [ ] At least one of your repos will be a LaTeX collection that will contain your annotated bibliography and the starting point for at least one technical report, which will be an ongoing record of your progress.
 - [ ] Sign up for a Udacity online learning account at https://www.udacity.com, if you don't have one already.  You will use Udacity for some of your introductory training.
-- [ ] Take the Udacity course Software Development Proces at https://classroom.udacity.com/courses/ud805.
+- [ ] Take the Udacity course Software Development Process at https://classroom.udacity.com/courses/ud805.
 - [ ] Take the Udacity course How to Use Git and GitHub at https://classroom.udacity.com/courses/ud775.
 - [ ] Take the online courses in C++: http://www.cprogramming.com/tutorial/c++-tutorial.html and http://www.cplusplus.com/doc/tutorial
 - [ ] Redo CS200 labs in C++
